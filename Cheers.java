@@ -20,7 +20,7 @@ public class Cheers {
                         }
 
                 }
-                System.out.println("what does that spell?");
+                System.out.println("What does that spell?");
                 for (int i = 0; i < count; i++) {
                         System.out.println(newWord + "!!!");
                 }
