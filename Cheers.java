@@ -14,9 +14,9 @@ public class Cheers {
                         }
                         newWord += letter;
                         if (temp.indexOf(letter) != -1) {
-                                System.out.println("Give me an " + letter + ":  " + letter + "!");
+                                System.out.println("Give me an " + letter + ": " + letter + "!");
                         } else {
-                                System.out.println("Give me a  " + letter + ":  " + letter + "!");
+                                System.out.println("Give me a  " + letter + ": " + letter + "!");
                         }
 
                 }
